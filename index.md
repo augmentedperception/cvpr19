@@ -2,8 +2,8 @@
 <p style="text-align: center;"> Sean Fanello, Christoph Rhemann, Graham Fyffe,  Jonathan Taylor, Sofien Bouaziz, Paul Debevec, Shahram Izadi
 </p>
 <p style="text-align: center;"> <b> Google </b> </p>
-## Description
 
+## Description
 Volumetric (4D) performance capture is fundamental for AR/VR content generation.  Designing a volumetric capture pipeline involves developing high quality sensors and efficient algorithms that can leverage new and existing sensing technology. To this end, we leverage a combination of active sensors with traditional photometric stereo methods. As a result, we have developed a wide range of high quality algorithms for reconstruction, tracking and texturing of humans in 4D.
 
 In this tutorial we will walk the attendee through the ins and outs of building such a system from the ground up.
