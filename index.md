@@ -17,7 +17,7 @@ In the third part we will focus on photometric stereo, texturing, relightability
 Finally we will discuss some applications and capabilities that 3D capture technologies enable. We will put emphasis on virtual and augmented reality scenarios and highlight recent trends in machine learning that aim at replacing traditional graphics pipelines.
 
 ## When and Where
-Coming soon
+June 16th -  Long Beach Convention Center in Long Beach, Room 201A
 
 ## Program
 Coming soon
