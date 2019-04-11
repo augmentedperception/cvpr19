@@ -20,6 +20,108 @@ Finally we will discuss some applications and capabilities that 3D capture techn
 June 16th -  Long Beach Convention Center in Long Beach, Room 201A
 
 ## Program
-Coming soon
+
+<table style="width:100%">
+  <tr>
+    <th><div align="center"> Time</div> </th>
+    <th><div align="center"> Title</div> </th> 
+    <th><div align="center"> Speaker</div> </th>
+  </tr>
+  <tr>
+    <td><div align="center"> 9:00 - 9:30 </div> </td>
+    <td><div align="center"> [Keynote] Digitizing Humans </div> </td> 
+    <td><div align="center"> Shahram Izadi<br/> Google </div> </td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td><div align="center"> <b> Morning Session: <br/>Volumetric Capture of Humans </b> </div> </td> 
+    <td></td>
+  </tr>
+  <tr>
+    <td><div align="center"> 9:30 - 10:00 </div> </td>
+    <td><div align="center"> High Quality Depth Sensors for Volumetric Capture </div> </td> 
+    <td><div align="center"> Adarsh Kowdle<br/> Google </div> </td> 
+  </tr>  
+  <tr>
+    <td><div align="center"> 10:00 - 10:30 </div> </td>
+    <td><div align="center"> Depth Estimation via Triangulation: Basics, Challenges and Algorithms </div> </td> 
+    <td><div align="center"> Sergio Orts Escolano <br/> Google </div> </td> 
+  </tr>      
+  <tr>
+    <td><div align="center"> 10:30 - 10:45 </div> </td>
+    <td><div align="center"> Coffee Break </div> </td> 
+    <td></td> 
+  </tr>      
+  <tr>
+    <td><div align="center"> 10:45 - 11:15 </div> </td>
+    <td><div align="center"> Depth Estimation in the Age of Deep Learning </div> </td> 
+    <td><div align="center"> Yinda Zhang, Christian Haene, Sameh Khamis <br/> Google </div> </td> 
+  </tr>      
+  <tr>
+    <td><div align="center"> 11:15 - 11:50 </div> </td>
+    <td><div align="center"> Multiview Human Pose Estimation and Segmentation via Deep Learning </div> </td> 
+    <td><div align="center"> Anastasia Tkach <br/> Google </div> </td> 
+  </tr> 
+   <tr>
+    <td><div align="center"> 11:50 - 12:30 </div> </td>
+    <td><div align="center"> Non-Rigid Reconstruction, Tracking and Parameterization of Humans </div> </td> 
+    <td><div align="center"> Kaiwen Guo <br/> Google </div> </td> 
+  </tr>     
+  <tr>
+    <td><div align="center"> 12:30 - 13:30 </div> </td>
+    <td><div align="center"> Lunch Break </div> </td> 
+    <td></td> 
+  </tr>   
+  <tr>
+    <td></td>
+    <td><div align="center"> <b> Afternoon Session: <br/>Light Stage for High Quality Renderings
+ </b> </div> </td> 
+    <td></td>
+  </tr>  
+   <tr>
+    <td><div align="center"> 13:30 - 14:00 </div> </td>
+    <td><div align="center"> [Keynote] A Light Stage for (almost) Every Application </div> </td> 
+    <td><div align="center"> Paul Debevec <br/> Google </div> </td> 
+  </tr>    
+  <tr>
+    <td><div align="center"> 14:00 - 14:25 </div> </td>
+    <td><div align="center"> The Lightstage Hardware </div> </td> 
+    <td><div align="center"> Xueming Yu <br/> Google </div> </td> 
+  </tr>    
+  <tr>
+    <td><div align="center"> 14:25 - 15:00 </div> </td>
+    <td><div align="center"> Relighting Still Images and Videos </div> </td> 
+    <td><div align="center"> Graham Fyffe <br/> Google </div> </td> 
+  </tr>  
+    <tr>
+    <td><div align="center"> 15:00 - 15:20 </div> </td>
+    <td><div align="center"> Relightable Volumetric Capture of Humans </div> </td> 
+    <td><div align="center"> Graham Fyffe <br/> Google </div> </td> 
+  </tr> 
+    <tr>
+    <td><div align="center"> 15:20 - 15:40 </div> </td>
+    <td><div align="center"> Single Image Portrait Relighting </div> </td> 
+    <td><div align="center"> Tiancheng Sun <br/> UCSD </div> </td> 
+  </tr>  
+    <td><div align="center"> 15:40 - 16:00 </div> </td>
+    <td><div align="center"> Coffee Break </div> </td> 
+    <td></td> 
+  <tr>
+    <td><div align="center"> 16:00 - 16:20 </div> </td>
+    <td><div align="center"> Compression and Streaming of 4D Performances </div> </td> 
+    <td><div align="center"> Danhang Tang <br/> Google </div> </td> 
+  </tr>     
+  <tr>
+    <td><div align="center"> 16:20 - 16:40 </div> </td>
+    <td><div align="center"> Neural rendering for Performance Capture </div> </td> 
+    <td><div align="center"> Rohit Pandey <br/> Google </div> </td> 
+    <td></td> 
+  </tr>   
+  <tr>
+    <td><div align="center"> 16:40 - 17:00 </div> </td>
+    <td><div align="center"> Deep Reflectance Fields </div> </td> 
+    <td><div align="center"> Abhimitra Meka <br/> MPI </div> </td> 
+  </tr>      
+</table>
 
 Please contact [Shahram Izadi](mailto:shahrami@google.com) or [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
