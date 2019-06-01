@@ -112,16 +112,17 @@ June 16th -  Long Beach Convention Center in Long Beach, Room 201A
     <td><div align="center"> Rohit Pandey <br/> Google </div> </td> 
     <td></td> 
   </tr>   
-  <tr>
+      <tr>
     <td><div align="center"> 16:20 - 16:40 </div> </td>
+    <td><div align="center"> Neural Rerendering in the Wild </div> </td> 
+    <td><div align="center"> Moustafa Meshry <br/> University of Maryland </div> </td> 
+  </tr> 
+  <tr>
+    <td><div align="center"> 16:40 - 17:00 </div> </td>
     <td><div align="center"> Deep Reflectance Fields </div> </td> 
     <td><div align="center"> Abhimitra Meka <br/> MPI </div> </td> 
   </tr>      
-    <tr>
-    <td><div align="center"> 16:40 - 17:00 </div> </td>
-    <td><div align="center"> Neural Rerendering in the Wild </div> </td> 
-    <td><div align="center"> Moustafa Meshry <br/> University of Maryland </div> </td> 
-  </tr>     
+    
 </table>
 
 Please contact [Shahram Izadi](mailto:shahrami@google.com) or [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
