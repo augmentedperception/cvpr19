@@ -59,13 +59,13 @@ June 16th -  Long Beach Convention Center in Long Beach, Room 201A
   </tr>      
   <tr>
     <td><div align="center"> 11:15 - 11:50 </div> </td>
-    <td><div align="center"> Multiview Human Pose Estimation and Segmentation via Deep Learning </div> </td> 
+    <td><div align="center"> Multiview Human Pose Estimation via Deep Learning </div> </td> 
     <td><div align="center"> Anastasia Tkach <br/> Google </div> </td> 
   </tr> 
    <tr>
     <td><div align="center"> 11:50 - 12:30 </div> </td>
-    <td><div align="center"> Non-Rigid Reconstruction, Tracking and Parameterization of Humans </div> </td> 
-    <td><div align="center"> Kaiwen Guo <br/> Google </div> </td> 
+    <td><div align="center"> Detect, Reconstruct, Track and Parameterize Humans</div> </td> 
+    <td><div align="center"> Sean Fanello, Kaiwen Guo <br/> Google </div> </td> 
   </tr>     
   <tr>
     <td><div align="center"> 12:30 - 13:30 </div> </td>
@@ -108,20 +108,20 @@ June 16th -  Long Beach Convention Center in Long Beach, Room 201A
     <td></td> 
   <tr>
     <td><div align="center"> 16:00 - 16:20 </div> </td>
-    <td><div align="center"> Compression and Streaming of 4D Performances </div> </td> 
-    <td><div align="center"> Danhang Tang <br/> Google </div> </td> 
-  </tr>     
-  <tr>
-    <td><div align="center"> 16:20 - 16:40 </div> </td>
     <td><div align="center"> Neural rendering for Performance Capture </div> </td> 
     <td><div align="center"> Rohit Pandey <br/> Google </div> </td> 
     <td></td> 
   </tr>   
   <tr>
-    <td><div align="center"> 16:40 - 17:00 </div> </td>
+    <td><div align="center"> 16:20 - 16:40 </div> </td>
     <td><div align="center"> Deep Reflectance Fields </div> </td> 
     <td><div align="center"> Abhimitra Meka <br/> MPI </div> </td> 
   </tr>      
+    <tr>
+    <td><div align="center"> 16:40 - 17:00 </div> </td>
+    <td><div align="center"> Compression and Streaming of 4D Performances </div> </td> 
+    <td><div align="center"> Moustafa Meshry <br/> University of Maryland </div> </td> 
+  </tr>     
 </table>
 
 Please contact [Shahram Izadi](mailto:shahrami@google.com) or [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
