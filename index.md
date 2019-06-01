@@ -119,7 +119,7 @@ June 16th -  Long Beach Convention Center in Long Beach, Room 201A
   </tr>      
     <tr>
     <td><div align="center"> 16:40 - 17:00 </div> </td>
-    <td><div align="center"> Compression and Streaming of 4D Performances </div> </td> 
+    <td><div align="center"> Neural Rerendering in the Wild </div> </td> 
     <td><div align="center"> Moustafa Meshry <br/> University of Maryland </div> </td> 
   </tr>     
 </table>
