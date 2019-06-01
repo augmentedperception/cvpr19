@@ -1,5 +1,5 @@
 ## Organizers
-<p style="text-align: center;"> Sean Fanello, Christoph Rhemann, Graham Fyffe,  Jonathan Taylor, Sofien Bouaziz, Paul Debevec, Shahram Izadi
+<p style="text-align: center;"> Sean Fanello, Christoph Rhemann, Graham Fyffe,  Jonathan Taylor, Sofien Bouaziz, Rohit Pandey, Paul Debevec, Shahram Izadi
 </p>
 <p style="text-align: center;"> <b> Google </b> </p>
 
