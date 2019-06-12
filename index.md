@@ -40,7 +40,7 @@ June 16th -  Long Beach Convention Center in Long Beach, Room 201A
   <tr>
     <td><div align="center"> 9:30 - 10:00 </div> </td>
     <td><div align="center"> High Quality Depth Sensors for Volumetric Capture </div> </td> 
-    <td><div align="center"> Adarsh Kowdle<br/> Google </div> </td> 
+    <td><div align="center"> Christoph Rhemann, Adarsh Kowdle<br/> Google </div> </td> 
   </tr>  
   <tr>
     <td><div align="center"> 10:00 - 10:30 </div> </td>
