@@ -58,12 +58,12 @@ June 16th -  Long Beach Convention Center in Long Beach, Room 201A
     <td><div align="center"> Yinda Zhang, Christian Haene, Sameh Khamis <br/> Google </div> </td> 
   </tr>      
   <tr>
-    <td><div align="center"> 11:15 - 11:50 </div> </td>
+    <td><div align="center"> 11:15 - 11:40 </div> </td>
     <td><div align="center"> Multiview Human Pose Estimation via Deep Learning </div> </td> 
     <td><div align="center"> Anastasia Tkach <br/> Google </div> </td> 
   </tr> 
    <tr>
-    <td><div align="center"> 11:50 - 12:30 </div> </td>
+    <td><div align="center"> 11:40 - 12:30 </div> </td>
     <td><div align="center"> Detect, Reconstruct, Track and Parameterize Humans</div> </td> 
     <td><div align="center"> Sean Fanello, Kaiwen Guo <br/> Google </div> </td> 
   </tr>     
